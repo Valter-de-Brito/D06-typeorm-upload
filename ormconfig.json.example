@@ -15,3 +15,5 @@
     "migrationsDir": "./src/database/migrations"
   }
 }
+
+//Remove this line after rename that file to ormconfig.json
